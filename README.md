@@ -12,5 +12,6 @@ Currently, two official plugins are available:
   - check if you have installed vite
   - npm install
   - npm run dev
-    
+  - recommnedation: you can just copy app. 
+    jsx in react codesandbox project
   
